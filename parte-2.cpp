@@ -1,7 +1,6 @@
 #include "trick.h"
 
 int main() {
-    // Array de notas
     float notas[5];
     float soma = 0;
     float media = 0;
